@@ -1,0 +1,109 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@font-face {
+  font-family: "Normale";
+  src: local("NormalePersonalUse"),
+    url("../src/fonts/NormalePersonalUse.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Suntage';
+  src: local('Suntage'), url(../src/fonts/Suntage.otf) format('otf');
+}
+
+@font-face {
+  font-family: 'TTAutonomous';
+  src: local('TT Autonomous Trial Regular'), url(../src/fonts/TT\ Autonomous\ Trial\ Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Manolete';
+  src: local('MANOLETE'), url(../src/fonts/MANOLETE.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Protest';
+  src: local('Protest Demo'), url(../src/fonts/Protest\ Demo.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'NewRomantics';
+  src: local('ROMANTICS'), url(../src/fonts/ROMANTIC.TTF) format('truetype');
+}
+
+@font-face {
+  font-family: 'Barcode';
+  src: local('3OF9_NEW'), url(../src/fonts/3OF9_NEW.TTF) format('truetype');
+}
+
+@font-face {
+  font-family: 'Mom';
+  src: local('Mom«t___'), url(../src/fonts/Mom«t___.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Lostar';
+  src: local('Lostar'), url(../src/fonts/Lostar.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Blacklisted';
+  src: local('Blacklised'), url(../src/fonts/Blacklisted.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Verve';
+  src: local('Verve'), url(../src/fonts/Verve.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Storybook';
+  src: local('Storyboo'), url(../src/fonts/Storyboo.TTF) format('truetype');
+}
+
+@font-face {
+  font-family: 'CentersGeorge';
+  src: local('Centers George'), url(../src/fonts/Centers\ George.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Anchora';
+  src: local('Anchora'), url(../src/fonts/Anchora-BF63b8debe1c757.otf) format('otf');
+}
