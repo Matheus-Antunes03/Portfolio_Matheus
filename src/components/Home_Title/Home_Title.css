@@ -1,0 +1,50 @@
+#logo_home{
+    display: flex;
+}
+
+#name{
+    font-family: Blacklisted;
+    color: #ffffff;
+    margin: 0 0 0 58px;
+    font-size: 110px;
+}
+
+#m{
+    width: 113px;
+    height: 113px;
+    border: solid 2px #ffffff;
+    padding: 10px;
+    margin-left: 18px;
+}
+
+#portfolio{
+    font-family: Manolete;
+    color: #202020;
+    font-size: 110px;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #ffffff;
+    margin: -8px 0 -10px 58px;
+    letter-spacing: 0.5px;
+}
+
+#icons{
+    display: flex;
+}
+
+#grid_home{
+    width: 342px;
+    height: 95px;
+    margin: 0 0 0 4px;
+}
+
+#div_linhas{
+    width: 123px;
+}
+
+#linhas_home{
+    color: #ffffff;
+    font-size: 25px;
+    margin: -16px 0 0 5px;
+    word-break: break-all;
+    line-height: 0.66;
+}

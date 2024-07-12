@@ -1,0 +1,100 @@
+#container_experiencias{
+    width: 90%;
+    height: 1030px;
+    border: 3px #ffffff solid;
+    margin: auto;
+    padding: 0;
+}
+
+#malwee{
+    display: flex;
+}
+
+#malwee_logo{
+    width: 300px;
+    height: 400px;
+    margin: 30px 0 0 30px;
+}
+
+#malwee_descricao{
+    text-align: justify;
+}
+
+#titulo_malwee{
+    color: #ffffff;
+    font-family: Manolete;
+    float: right;
+    margin: 23px 5px 0 0;
+}
+
+#texto_malwee{
+    color: #ffffff;
+    font-family: TTAutonomous;
+    font-size: 20px;
+    margin: 95px 5px 0 20px;
+}
+
+#ano_malwee{
+    height: 400px;
+    margin: 30px 18px 0 10px;
+}
+
+#divisao{
+    width: 94.5%;
+    height: 110px;
+    border: 3px #ffffff solid;
+    display: flex;
+    margin: 30px auto 30px auto;
+    padding: 0;
+}
+
+#grid_experiencia{
+    width: 350px;
+    height: 100px;
+    margin: 3px 0 0 5px;
+}
+
+#recomendacao{
+    color: #ffffff;
+    font-family: TTAutonomous;
+    font-size: 20px;
+    margin: 7px 0 0 5px;
+    text-align: justify;
+    width: 513px;
+}
+
+#brilho_experiencias{
+    width: 80px;
+    height: 80px;
+    margin: 10px 0 0 5px;
+}
+
+#cast{
+    display: flex;
+}
+
+#ano_cast{
+    height: 400px;
+    margin: 0 0 0 20px;
+}
+
+#titulo_cast{
+    color: #ffffff;
+    font-family: Manolete;
+    float: left;
+    margin: 0 0 0 20px;
+}
+
+#texto_cast{
+    color: #ffffff;
+    font-family: TTAutonomous;
+    font-size: 20px;
+    margin: 70px 10px 0 20px;
+    text-align: justify;
+}
+
+#cast_logo{
+    width: 300px;
+    height: 400px;
+    margin: 0 30px 0 10px;
+}

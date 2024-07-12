@@ -1,0 +1,12 @@
+#content_habilidades{
+    background-color: #202020;
+    width: 100%;
+    height: 1700px;
+    margin: 0;
+    padding: 40px 100px 100px 100px;
+}
+
+#voltar{
+    width: 70px;
+    margin-left: -50px;
+}

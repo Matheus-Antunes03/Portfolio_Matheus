@@ -1,0 +1,45 @@
+#logo_habilidades{
+    display: flex;
+}
+
+#name{
+    font-family: Blacklisted;
+    color: #ffffff;
+    margin: 0 0 0 58px;
+    font-size: 110px;
+}
+
+#m{
+    width: 113px;
+    height: 113px;
+    border: solid 2px #ffffff;
+    padding: 10px;
+    margin-left: 18px;
+}
+
+#habilidades{
+    font-family: Storybook;
+   color: #202020;
+    font-size: 83.7px;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #ffffff;
+    font-size: 83.7px;
+    margin: 0 0 0 58px;
+    letter-spacing: 2px;
+}
+
+#icons_habilidades{
+    display: flex;
+}
+
+#icon_habilidades{
+    width: 75px;
+    height: 75px;
+    margin: 6px 0 0 13px;;
+}
+
+#icon3_habilidades{
+    width: 70px;
+    height: 70px;
+    margin: 21px 0 0 13px;;
+}

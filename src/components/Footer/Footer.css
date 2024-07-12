@@ -1,0 +1,25 @@
+#footer_content{
+    display: flex;
+    justify-content: space-between;
+    width: 970px;
+    margin: auto;
+}
+
+#data{
+    color: #ffffff;
+    font-family: Mom;
+    margin: 0;
+}
+
+#logo_footer{
+    width: 80px;
+    display: block;
+    margin: 10px auto auto 300px;
+}
+
+#barcode{
+    color: #ffffff;
+    font-family: Barcode;
+    font-size: 60px;
+    margin: -15px 0 0 0;
+}

@@ -1,0 +1,42 @@
+#logo_pessoal{
+    display: flex;
+}
+
+#name{
+    font-family: Blacklisted;
+    color: #ffffff;
+    margin: 0 0 0 58px;
+    font-size: 110px;
+}
+
+#m{
+    width: 113px;
+    height: 113px;
+    border: solid 2px #ffffff;
+    padding: 10px;
+    margin-left: 18px;
+}
+
+#pessoal{
+    font-family: Protest;
+    color: #ffffff;
+    font-size: 83.7px;
+    margin: 10px 0 10px 50px;
+    letter-spacing: 2px;
+}
+
+#icons{
+    display: flex;
+}
+
+#icon{
+    width: 75px;
+    height: 75px;
+    margin: 18px 0 0 13px;;
+}
+
+#icon3{
+    width: 85px;
+    height: 85px;
+    margin: 13px 0 0 10px;;
+}
