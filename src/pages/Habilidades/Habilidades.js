@@ -2,7 +2,7 @@ import React from "react";
 import styles from './Habilidades.css';
 import { Footer } from "../../components/Footer";
 import { Habilidades_Title } from "../../components/Habilidades_Title";
-import { Habilidades_Content } from "../../components/Habilidades_Content/Pessoal_Content";
+import { Habilidades_Content } from "../../components/Habilidades_Content/Habilidades_Content";
 
 export function Habilidades() {
     return (

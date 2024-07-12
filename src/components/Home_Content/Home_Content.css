@@ -1,6 +1,6 @@
 #container_home{
     width: 90%;
-    height: 930px;
+    height: 2770px;
     border: 3px #ffffff solid;
     display: block;
     margin: auto;
@@ -49,14 +49,14 @@
 #hands{
     width: 300px;
     height: 180px;
-    margin: 20px 0 0 20px;
+    margin: 17px 0 0 20px;
 }
 
 #descricao{
     font-family: TTAutonomous;
     color: #ffffff;
-    font-size: 20px;
-    margin: 20px 0 0 20px;
+    font-size: 24px;
+    margin: 15px 0 0 20px;
     width: 530px;
     height: 100px;
     text-align: justify;
@@ -105,8 +105,9 @@
     margin: 10px 0 10px 0;
 }
 
-buttonslabel{
-    display: flex;
+#rede{
+    width: 200px;
+    height: 150px;
 }
 
 #olhos_trabalhos{
@@ -128,4 +129,56 @@ buttonslabel{
     bottom: -65px;
     left: 140px;
     font-family: Protest;
+}
+
+#ontime{
+    border: 3px solid #ffffff;
+    margin: 100px auto auto auto;
+    width: 90%;
+    height: 1815px;
+}
+
+#ontime_logotipo{
+    width: 881px;
+    margin: 20px 0 0 20px;
+}
+
+#introducao_ontime{
+    color: #ffffff;
+    font-family: TTAutonomous;
+    margin: 10px 0 0 20px;
+    font-size: 20px;
+    text-align: justify;
+    width: 881px;
+}
+
+#app_images{
+    display: flex;
+}
+
+#ontime_app{
+    width: 205px;
+    height: 450px;
+    margin: 20px 0 0 20px;
+    transition: 0.3s;
+}
+
+#texto_ontime{
+    color: #ffffff;
+    font-family: TTAutonomous;
+    margin: 10px 0 0 20px;
+    font-size: 20px;
+    text-align: justify;
+    width: 881px;
+}
+
+#ontime_web{
+    width: 881px;
+    margin: 20px 0 0 20px;
+    transition: 0.3s;
+}
+
+#ontime_app:hover ,#ontime_web:hover{
+    transform: translateY(-10px);
+    box-shadow: #ffffff 0 7px 29px 0;
 }

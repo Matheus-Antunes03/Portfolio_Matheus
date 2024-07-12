@@ -4,7 +4,7 @@ import styles from './Footer.css';
 export function Footer() {
     return (
         <div id="footer_content">
-            <p id="data">29O52OO3/1OO72O24</p>
+            <p id="data">matheus_pol@hotmail.com</p>
             <img id="logo_footer" src={require("../../images/logo.png")} />
             <p id="barcode">Matheus</p>
         </div>

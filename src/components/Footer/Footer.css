@@ -1,25 +1,24 @@
 #footer_content{
     display: flex;
     justify-content: space-between;
-    width: 970px;
-    margin: auto;
+    width: 100%;
 }
 
 #data{
     color: #ffffff;
     font-family: Mom;
-    margin: 0;
+    margin: 0 0 0 100px;
 }
 
 #logo_footer{
     width: 80px;
     display: block;
-    margin: 10px auto auto 300px;
+    margin: 10px auto auto auto;
 }
 
 #barcode{
     color: #ffffff;
     font-family: Barcode;
     font-size: 60px;
-    margin: -15px 0 0 0;
+    margin: -15px 100px 0 0;
 }

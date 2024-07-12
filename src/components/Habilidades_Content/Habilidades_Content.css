@@ -5,3 +5,34 @@
     margin: auto;
     padding: 0;
 }
+
+#ingles{
+    border: solid 3px #ffffff;
+    width: 94%;
+    display: block;
+    margin: 30px auto auto auto;
+}
+
+#ingles_rastro{
+    display: flex;
+}
+
+#titulo_ingles{
+    color: #ffffff;
+    font-family: Verve;
+    margin: 20px 0 0 20px;
+    font-size: 80px;
+}
+
+#rastro{
+    width: 730px;
+    margin-top: 15px;
+}
+
+#texto_ingles{
+    color: #ffffff;
+    font-family: TTAutonomous;
+    margin: 0 20px 20px 30px;
+    font-size: 20px;
+    text-align: justify;
+}
