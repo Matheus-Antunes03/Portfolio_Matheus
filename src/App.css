@@ -97,13 +97,3 @@
   font-family: 'Storybook';
   src: local('Storyboo'), url(../src/fonts/Storyboo.TTF) format('truetype');
 }
-
-@font-face {
-  font-family: 'CentersGeorge';
-  src: local('Centers George'), url(../src/fonts/Centers\ George.ttf) format('truetype');
-}
-
-@font-face {
-  font-family: 'Anchora';
-  src: local('Anchora'), url(../src/fonts/Anchora-BF63b8debe1c757.otf) format('otf');
-}

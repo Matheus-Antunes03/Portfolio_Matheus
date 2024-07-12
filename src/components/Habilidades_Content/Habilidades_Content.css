@@ -1,6 +1,6 @@
 #container_habilidades{
     width: 90%;
-    height: 1030px;
+    height: 1720px;
     border: 3px #ffffff solid;
     margin: auto;
     padding: 0;
@@ -32,7 +32,44 @@
 #texto_ingles{
     color: #ffffff;
     font-family: TTAutonomous;
-    margin: 0 20px 20px 30px;
+    margin: 0 25px 20px 30px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+#homem{
+    margin: 20px 0 0 30px;
+    width: 94%;
+}
+
+#ti{
+    border: solid 3px #ffffff;
+    width: 94%;
+    display: block;
+    margin: 30px auto auto auto;
+}
+
+#ti_rastro{
+    display: flex;
+}
+
+#barcode_ti{
+    width: 730px;
+    height: 54px;
+    margin: 28px 0 0 30px;
+}
+
+#titulo_ti{
+    color: #ffffff;
+    font-family: TTAutonomous;
+    margin: 10px 0 0 3px;
+    font-size: 80px;
+}
+
+#texto_ti{
+    color: #ffffff;
+    font-family: TTAutonomous;
+    margin: 0 25px 20px 30px;
     font-size: 20px;
     text-align: justify;
 }
